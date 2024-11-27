@@ -108,7 +108,7 @@ Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus d'infor
 ---
 
 ## **Auteur**
-BILL YAN
+BILL YAN TUENKAM
 HENINTSOA RAMAKAVELO
 PIERRE STEVE NGWEHA
 JEFF DJOUSSE
